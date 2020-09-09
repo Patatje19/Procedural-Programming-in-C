@@ -1,0 +1,12 @@
+In de onderstaande code heeft de variabele b steeds een andere byte-waarde. Schrijf elke
+keer dat de waarde van b verandert zijn nieuwe byte-waarde op.
+
+char mask = 0x6b; 	//Binair getal 0110 1011
+char b = 15; 		//Binair getal 0000 1111
+
+b = 	b | (1 << 6);	//0100 1111
+b = 	~b;		//1011 0000
+b = 	b << 1;		//0110 0000
+b |= 	7;		//0110 0111
+b &= 	~(1 << 1);	//0110 0101
+b ^= 	mask;		//0000 1110

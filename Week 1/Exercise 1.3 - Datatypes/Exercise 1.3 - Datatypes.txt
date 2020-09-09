@@ -1,0 +1,19 @@
+De onderstaande code wordt uitgevoerd. Schrijf van elke variabele de waarde op die de variabele heeft 
+na het uitvoeren. Probeer dit te doen zonder de code uit te voeren op een computer.
+
+x = 8
+c = 98 + (90 - 122) = 66 = ASCII-character B
+f = 8
+u = 0
+
+p = "Hoera! HIEP!"
+
+station = Driebergen
+plaats = Driebergen
+
+y = 3
+z = 3
+t = 3
+s = 3.6
+e = 1
+b = 1

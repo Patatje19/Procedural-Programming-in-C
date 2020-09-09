@@ -1,0 +1,4 @@
+Zoek uit wat de rekenkundige operator % is en wat het doet. De term ”rekenkundige operator” is vertaald in 
+het engels “arithmetic operator”.
+
+% == Modulus operator to get remainder in integer division

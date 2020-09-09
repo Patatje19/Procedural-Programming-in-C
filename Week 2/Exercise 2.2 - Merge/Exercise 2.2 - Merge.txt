@@ -1,0 +1,5 @@
+Beschrijf in maximaal twee zinnen wat de onderstaande functie merge() doet.
+
+Door de max functie word groote van de grootste string berekend de letters van de 2 strings worden om en om achter 
+mekaar gezet . Mocht de ene string groter zijn dan zal die verder gaan zonder de letters van de andere string de 
+nieuwe string word gereturned. 

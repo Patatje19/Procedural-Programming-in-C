@@ -1,0 +1,3 @@
+Beschrijf in één zin wat de onderstaande functie doet.
+
+De bovenstaande functie verdubbelt de meegegeven waarde n_rabbits.

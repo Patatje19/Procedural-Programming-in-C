@@ -1,0 +1,3 @@
+Beschrijf in één zin wat de onderstaande functie reverse() doet.
+
+De functie draait de gegeven binaire waarde om.

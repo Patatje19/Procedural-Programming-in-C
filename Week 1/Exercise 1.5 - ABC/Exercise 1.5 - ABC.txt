@@ -1,0 +1,9 @@
+Beschrijf in één zin wat de onderstaande code doet. Probeer dit doen zonder de code uit te voeren op je computer.
+
+char 'a' word opgeslagen in een variabele, een for-loop zal 26 door de code idereren en telkens 1 bij char 'a' optellen, dit kan doordat C++ de 
+variabelen vertaald naar ASCII-waarde, de code zal het volledige latijnse alfabet printen
+
+Compiler uitkomst:
+a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, 
+
+Mogelijke verbetering zou zijn om de laatste comma te vervangen door een spatie of enter

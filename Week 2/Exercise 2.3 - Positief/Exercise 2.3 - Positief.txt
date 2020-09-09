@@ -1,0 +1,23 @@
+In de onderstaande code staan drie functies, postive1(), positive2() en positive3(). Wat 
+de functies doen lijkt erg op elkaar.
+
+A: Beschrijf in één zin wat de functie positive1() doet.
+Alle negatieve getallen van een vector omzetten naar positieve getallen.
+
+B: De functie positive2() heeft geen return-statement. Hoe geeft de functie zijn resultaat terug?
+Omdat doormiddel van het & teken een refrence word gemaakt naar de vector. Hij kopieert de vector dus niet
+en werkt gelijk in de vector. 
+
+C: De drie functies vervullen alle drie ongeveer dezelfde taak. Ze verschillen voornamelijk in hun 
+functiedefinitie. Noem van elke functie een voordeel van de functiedefinitie.
+
+Positive1: Geen wijzigingen in de orginele vector 
+Positive2: Efficiëntie de vector word niet gekopieerd maar er word een reference naar gemaakt
+Positive3: Vertrouwen dat de orginele vector niet word aangepast
+
+D: Welke functie heeft in dit geval je voorkeur? Geef minimaal één argument.
+Elke functie heeft ze voor en nadelen mijn voorkeur gaat uit naar de functie Positive2. 
+
+Dit omdat ik Positive2 de meest efficiënte oplossing betreft door in een reference van de vector 
+te werken. Zowel Positive1 als Postive3 werken in een kopie die ze vervolgens als nieuwe variabelen
+moet returnen. 

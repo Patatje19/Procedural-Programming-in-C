@@ -1,0 +1,11 @@
+Exercise 1.11 - Piramide - While-loop.
+
+Schrijf een programma dat een piramide van variabele lengte afdrukt, zoals in het voorbeeld. Druk 
+ieder character apart af. De gebruiker geeft aan hoe groot de piramide is.
+
+Implementeer je programma twee keer, de eerste keer met twee for loops, en daarna met twee while 
+loops. Beargumenteer welke variant jij mooier vindt.
+
+Als we het over de layout van de code hebben vind ik de while-loop mooier. Dit komt, omdat de diverse
+variabelen allemaal los staan beschreven. In het for-loop word er gelijk verwezen naar de variabelen
+wat het voor mij minder leesbaar maakt.

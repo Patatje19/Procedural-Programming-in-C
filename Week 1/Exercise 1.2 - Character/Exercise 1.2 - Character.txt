@@ -1,0 +1,24 @@
+1. Wat zijn de decimale ASCII-waarden van ’a’, ’b’, ’c’, ’h’ en ’z’?
+97, 98, 99, 104, 122
+
+2. Wat zijn de decimale ASCII-waarden van ’A’, ’B’, ’C’, ’H’ en ’Z’?
+65, 66, 67, 72, 90
+
+3. Welke character krijg je als je bij character ’g’ het verschil tussen ’a’ en ’A’ aftrekt?
+g == 103, a == 97, A == 65
+
+97 - 65 = 32 = het verschil tussen ASCII-waarden 'a' en 'A'
+
+103 - 32 = 71 = G = de waarde van character 'g' na aftrekken verschil 'a' en 'A'
+
+4. Wat zijn de decimale ASCII-waarden van ’8’ en ’0’
+56, 48
+
+5. Wat is de decimale ASCII-waarde van ‘4’ - ’0’?
+4 == 52, 0 == 48
+
+52 - 48 = 4 = de decimale ASCII-waarde van '4' - '0'
+
+6. Waarom zijn de antwoord van vraag 3 en 5 handig om te weten?
+Dit is handig om te weten zodat je in een lijst zo efficient mogelijk het verschil kan berekenen tussen
+tussen verschillende letters en tekens

@@ -1,0 +1,28 @@
+De volgende functies lossen een "groot" probleem op. Bedenk per functie de deelproblemen en 
+schrijf de functienamen op van de functies die deze deelproblemen oplossen. Je hoeft de inhoud 
+van de functies niet te maken.
+
+1. void raadGetalOnderDeTien ()
+Controle of user input overeenkomt met het te gerade getal.
+
+int userInput () 
+int random (int numbers)
+string getallen ()
+int main ()
+
+2. int aantalWoordenInLangsteZin (string filename)
+Loopen door een bestand om vervolgens de langste zin op te slaan. Door de 
+langste zin loopen en het aantal woorden te returnen.
+
+string langsteZin (string filename)
+int countWord (string filename)
+int main ()
+
+3. void bestuurZelfrijdendeAuto ()
+Het ontwijken van obstacles en over een route van A naar B rijden.
+
+bool obstacle (string route)
+chr turning (string route)
+bool destination (string route)
+int main ()
+

@@ -1,0 +1,7 @@
+Beschrijf in maximaal twee zinnen wat de onderstaande functie upperAndLower() doet. Probeer dit 
+te doen zonder de code op een computer uit te voeren. Je mag aannemen in je beschrijving dat de 
+parameter van de functie enkel letters bevat.
+
+Doormiddel van een FOR-loop worden de vector en string gelezen. Als de string op een even index getal 
+in de vector staat zullen de letters worden omgezet in kleine letters, als de string op een oneven index
+getal staat in de vector zullen de letters worden omgezet in hoofdletters.

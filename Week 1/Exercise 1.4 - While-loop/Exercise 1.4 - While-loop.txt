@@ -1,0 +1,15 @@
+In de onderstaande code krijgt de variabele number verschillende waarden. Schrijf deze waarden in goede volgorde op.
+
+Wat ik dacht = 65, 70, 71, 72, 73, 74, 75, 76, 78, 79, 82, 85, 88, 91
+
+Compiler uitkomst = 70, 73, 74, 77, 78, 81, 84, 87, 90
+
+Wat ik heb gedaan klopt dus blijkbaar niet met wat er werkelijk gebeurt. Aan de hand van mijn test kan ik concluderen dat eerst het hele
+while-loop word doorlopen voordat die de code nog 1x gaat doorlopen. Het getal 65 word helemaal niet geprint op het moment van de eerste 
+print is die al verhoogd naar 70. Vervolgens word het else if statement overgeslagen en niet gekeken of de waarde lager is dan 80 er word 
+verder gegaan met een optelling van 3. 
+
+Bij de volgende ideratie van het while-loop word wel weer gekeken of de waarde lager is dan 80 en er word 1 bij opgeteld. Hierna zal er verder 
+worden gegaan tot het getal 90 waarna het while-loop zal stoppen. 
+
+Voor het testen van dit programma heb ik de code aan moeten passen zie hiervoor "Exercise 1.4 - While-loop - Test.cpp"

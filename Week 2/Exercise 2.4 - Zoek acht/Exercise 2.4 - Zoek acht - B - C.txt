@@ -1,0 +1,6 @@
+B: Wanneer geeft de de functie -1 terug?
+Als het getal 8 niet voorkomt in de vector die gecontroleerd word
+
+C: Waarom is hier voor de waarde -1 gekozen en niet voor de waarde 99 of 0?
+In dat geval wordt de hele for-loop doorlopen zonder dat er iets wordt gereturned. Om aan de gebruiker
+duidelijk te maken dat we de gezochte informatie niet hebben gevonden geven we een gekke waarde terug.

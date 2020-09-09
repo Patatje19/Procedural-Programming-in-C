@@ -1,0 +1,4 @@
+Beschrijf in één zin wat de onderstaande functie m () doet.
+
+Als meegegeven vector leeg is return "De rij is leeg", als de meegegeven vector kleiner is dan mmm return mmm anders return
+het ene laatste getal van de meegegeven vector.

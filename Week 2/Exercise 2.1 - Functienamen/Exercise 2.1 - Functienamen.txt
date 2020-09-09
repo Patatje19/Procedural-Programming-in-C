@@ -1,0 +1,13 @@
+Geef bij de onderstaande functienamen aan welk datatypen jij denkt dat ze teruggeven:
+
+numberOfCats()	= INT
+firstVowel()	= CHAR
+getAge()	= INT
+getName()	= STRING
+count()		= FLOAT	
+printRow()	= STRING
+uppercase()	= CHAR
+isEqual()	= BOOL
+readTextFile()	= STRING
+isBike()	= BOOL
+yourTeacher()	= STRING
